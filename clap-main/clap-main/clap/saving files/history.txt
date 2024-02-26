@@ -1,0 +1,2723 @@
+turn 0
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 100
+player 1's  bullet=100
+player 1's  sword=100
+player 1's  pause=0
+player 2's HP = 100
+player 2's  bullet=100
+player 2's  sword=100
+player 2's  pause=0
+
+
+
+
+
+turn 1
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 99
+player 1's  bullet=100
+player 1's  sword=100
+player 1's  pause=1
+player 2's HP = 100
+player 2's  bullet=100
+player 2's  sword=100
+player 2's  pause=6
+
+player 1's  order 1 move is 8 aims at 1
+player 2's  order 1 move is 20 aims at 1
+
+player 1 docas 2
+player 1's  order 1 ca is 2
+player 2's  order 1 stab is 5 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:5 damaging1
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 2
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 98
+player 1's  bullet=95
+player 1's  sword=100
+player 1's  pause=0
+player 2's HP = 97
+player 2's  bullet=99
+player 2's  sword=100
+player 2's  pause=0
+
+player 1's  order 1 move is 16 aims at 2
+player 2's  order 1 move is 2 aims at 1
+
+player 1's  order 1 shoot is 7 aims at 2
+player 2's  order 1 shoot is 1 aims at 1
+
+player 1's  attack at 1 in order 1 leveling:7 damaging1
+player 1's  attack at 2 in order 1 leveling:7 damaging3
+player 2's  attack at 1 in order 1 leveling:4 damaging1
+
+
+turn 3
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 98
+player 1's  bullet=95
+player 1's  sword=100
+player 1's  pause=0
+player 2's HP = 97
+player 2's  bullet=99
+player 2's  sword=101
+player 2's  pause=0
+
+player 1's  order 1 move is 26 aims at 1
+player 2's  order 1 move is 7 aims at 2
+
+player 1's  order 1 provoke is 1 aims at 1
+player 2's  order 1 add is 2 aims at 2 numbers are 1
+
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 4
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 97
+player 1's  bullet=95
+player 1's  sword=100
+player 1's  pause=1
+player 2's HP = 97
+player 2's  bullet=99
+player 2's  sword=101
+player 2's  pause=1
+
+player 1's  order 1 move is 8 aims at 1
+player 2's  order 1 move is 8 aims at 2
+
+player 1 docas 2
+player 1's  order 1 ca is 2
+player 2 docas 2
+player 2's  order 1 ca is 2
+
+
+
+turn 5
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 96
+player 1's  bullet=95
+player 1's  sword=100
+player 1's  pause=6
+player 2's HP = 97
+player 2's  bullet=97
+player 2's  sword=101
+player 2's  pause=0
+
+player 1's  order 1 move is 18 aims at 2
+player 2's  order 1 move is 3 aims at 1
+
+player 1's  order 1 stab is 4 aims at 2
+player 2's  order 1 shoot is 2 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging2
+player 2's  attack at 1 in order 1 leveling:4 damaging1
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 6
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 96
+player 1's  bullet=96
+player 1's  sword=100
+player 1's  pause=0
+player 2's HP = 97
+player 2's  bullet=97
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 1 aims at 1
+player 2's  order 1 move is 7 aims at 2
+
+player 1's  order 1 add is 1 aims at 1 numbers are 1
+player 2's  order 1 add is 2 aims at 2 numbers are 1
+
+
+
+turn 7
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 94
+player 1's  bullet=96
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 97
+player 2's  bullet=97
+player 2's  sword=102
+player 2's  pause=10
+
+player 1's  order 1 move is 7 aims at 1
+player 2's  order 1 move is 21 aims at 1
+
+player 1's  order 1 add is 2 aims at 1 numbers are 1
+player 2's  order 1 stab is 6 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:5 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 8
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 93
+player 1's  bullet=96
+player 1's  sword=101
+player 1's  pause=3
+player 2's HP = 97
+player 2's  bullet=95
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 17 aims at 2
+player 2's  order 1 move is 3 aims at 1
+
+player 1's  order 1 stab is 3 aims at 2
+player 2's  order 1 shoot is 2 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:2 damaging2
+player 2's  attack at 1 in order 1 leveling:4 damaging1
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 9
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 93
+player 1's  bullet=96
+player 1's  sword=101
+player 1's  pause=7
+player 2's HP = 97
+player 2's  bullet=95
+player 2's  sword=102
+player 2's  pause=1
+
+player 1's  order 1 move is 19 aims at 2
+player 2's  order 1 move is 8 aims at 2
+
+player 1's  order 1 stab is 7 aims at 2
+player 2 docas 2
+player 2's  order 1 ca is 2
+
+player 1's  attack at 2 in order 1 leveling:3 damaging1
+
+
+turn 10
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 92
+player 1's  bullet=91
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 94
+player 2's  bullet=94
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 16 aims at 2
+player 2's  order 1 move is 2 aims at 1
+
+player 1's  order 1 shoot is 7 aims at 2
+player 2's  order 1 shoot is 1 aims at 1
+
+player 1's  attack at 1 in order 1 leveling:7 damaging1
+player 1's  attack at 2 in order 1 leveling:7 damaging3
+player 2's  attack at 1 in order 1 leveling:4 damaging1
+
+
+turn 11
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 90
+player 1's  bullet=91
+player 1's  sword=101
+player 1's  pause=3
+player 2's HP = 94
+player 2's  bullet=94
+player 2's  sword=102
+player 2's  pause=5
+
+player 1's  order 1 move is 17 aims at 2
+player 2's  order 1 move is 18 aims at 1
+
+player 1's  order 1 stab is 3 aims at 2
+player 2's  order 1 stab is 4 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:2 damaging2
+player 2's  attack at 1 in order 1 leveling:3 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 12
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 90
+player 1's  bullet=88
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 92
+player 2's  bullet=95
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 14 aims at 2
+player 2's  order 1 move is 1 aims at 2
+
+player 1's  order 1 shoot is 5 aims at 2
+player 2's  order 1 add is 1 aims at 2 numbers are 1
+
+player 1's  attack at 2 in order 1 leveling:6 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 13
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 90
+player 1's  bullet=86
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 90
+player 2's  bullet=6
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 12 aims at 2
+player 2's  order 1 move is 13 aims at 1
+
+player 1's  order 1 shoot is 3 aims at 2
+player 2's  order 1 shoot is 4 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:4 damaging2
+player 2's  attack at 1 in order 1 leveling:1 damaging90
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 14
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 88
+player 1's  bullet=86
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 90
+player 2's  bullet=6
+player 2's  sword=102
+player 2's  pause=10
+
+player 1's  order 1 move is 26 aims at 1
+player 2's  order 1 move is 21 aims at 1
+
+player 1's  order 1 provoke is 1 aims at 1
+player 2's  order 1 stab is 6 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:5 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 15
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 85
+player 1's  bullet=87
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 90
+player 2's  bullet=4
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 1 aims at 1
+player 2's  order 1 move is 12 aims at 1
+
+player 1's  order 1 add is 1 aims at 1 numbers are 1
+player 2's  order 1 shoot is 3 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:4 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 16
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 84
+player 1's  bullet=87
+player 1's  sword=101
+player 1's  pause=3
+player 2's HP = 90
+player 2's  bullet=3
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 17 aims at 2
+player 2's  order 1 move is 2 aims at 1
+
+player 1's  order 1 stab is 3 aims at 2
+player 2's  order 1 shoot is 1 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:2 damaging2
+player 2's  attack at 1 in order 1 leveling:4 damaging1
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 17
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 83
+player 1's  bullet=82
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 87
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 16 aims at 2
+player 2's  order 1 move is 12 aims at 1
+
+player 1's  order 1 shoot is 7 aims at 2
+player 2's  order 1 shoot is 3 aims at 1
+
+player 1's  attack at 1 in order 1 leveling:7 damaging1
+player 1's  attack at 2 in order 1 leveling:7 damaging3
+player 2's  attack at 1 in order 1 leveling:4 damaging2
+
+
+turn 18
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 83
+player 1's  bullet=81
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 86
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=4
+
+player 1's  order 1 move is 2 aims at 2
+player 2's  order 1 move is 19 aims at 1
+
+player 1's  order 1 shoot is 1 aims at 2
+player 2's  order 1 stab is 7 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:4 damaging1
+player 2's  attack at 1 in order 1 leveling:3 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 19
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 83
+player 1's  bullet=81
+player 1's  sword=101
+player 1's  pause=6
+player 2's HP = 86
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=14
+
+player 1's  order 1 move is 20 aims at 2
+player 2's  order 1 move is 21 aims at 1
+
+player 1's  order 1 stab is 5 aims at 2
+player 2's  order 1 stab is 6 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:5 damaging1
+player 2's  attack at 1 in order 1 leveling:5 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 20
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 83
+player 1's  bullet=81
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 86
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=15
+
+player 1's  order 1 move is 25 aims at 1
+player 2's  order 1 move is 9 aims at 1
+
+player 1's  comeon is1
+player 2's  order 1 stab is 1 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:2 damaging1
+
+
+turn 21
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 83
+player 1's  bullet=81
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 86
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 5 aims at 1
+player 2's  order 1 move is 5 aims at 2
+
+player 1 doblocks 2
+player 1's  order 1 block is 2
+player 2 doblocks 2
+player 2's  order 1 block is 2
+
+
+
+turn 22
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 83
+player 1's  bullet=81
+player 1's  sword=101
+player 1's  pause=3
+player 2's HP = 84
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 17 aims at 2
+player 2's  order 1 move is 25 aims at 2
+
+player 1's  order 1 stab is 3 aims at 2
+player 2's  comeon is1
+
+player 1's  attack at 2 in order 1 leveling:2 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 23
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 83
+player 1's  bullet=75
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 81
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=4
+
+player 1's  order 1 move is 15 aims at 2
+player 2's  order 1 move is 19 aims at 1
+
+player 1's  order 1 shoot is 6 aims at 2
+player 2's  order 1 stab is 7 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:6 damaging3
+player 2's  attack at 1 in order 1 leveling:3 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 24
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 82
+player 1's  bullet=74
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 81
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=10
+
+player 1's  order 1 move is 2 aims at 2
+player 2's  order 1 move is 20 aims at 1
+
+player 1's  order 1 shoot is 1 aims at 2
+player 2's  order 1 stab is 5 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:4 damaging1
+player 2's  attack at 1 in order 1 leveling:5 damaging1
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 25
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 82
+player 1's  bullet=68
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 78
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=12
+
+player 1's  order 1 move is 15 aims at 2
+player 2's  order 1 move is 10 aims at 1
+
+player 1's  order 1 shoot is 6 aims at 2
+player 2's  order 1 stab is 2 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:6 damaging3
+player 2's  attack at 1 in order 1 leveling:3 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 26
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 82
+player 1's  bullet=68
+player 1's  sword=101
+player 1's  pause=6
+player 2's HP = 77
+player 2's  bullet=0
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 20 aims at 2
+player 2's  order 1 move is 6 aims at 2
+
+player 1's  order 1 stab is 5 aims at 2
+player 2 docas 1
+player 2's  order 1 ca is 1
+
+player 1's  attack at 2 in order 1 leveling:5 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 27
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 82
+player 1's  bullet=68
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 77
+player 2's  bullet=0
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 4 aims at 1
+player 2's  order 1 move is 26 aims at 2
+
+player 1 doblocks 1
+player 1's  order 1 block is 1
+player 2's  order 1 provoke is 1 aims at 2
+
+
+
+turn 28
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 82
+player 1's  bullet=66
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 75
+player 2's  bullet=0
+player 2's  sword=102
+player 2's  pause=3
+
+player 1's  order 1 move is 3 aims at 2
+player 2's  order 1 move is 17 aims at 1
+
+player 1's  order 1 shoot is 2 aims at 2
+player 2's  order 1 stab is 3 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:4 damaging1
+player 2's  attack at 1 in order 1 leveling:2 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+
+turn 29
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 82
+player 1's  bullet=66
+player 1's  sword=101
+player 1's  pause=10
+player 2's HP = 73
+player 2's  bullet=0
+player 2's  sword=102
+player 2's  pause=4
+
+player 1's  order 1 move is 21 aims at 2
+player 2's  order 1 move is 8 aims at 2
+
+player 1's  order 1 stab is 6 aims at 2
+player 2 docas 2
+player 2's  order 1 ca is 2
+
+player 1's  attack at 2 in order 1 leveling:5 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 30
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 82
+player 1's  bullet=66
+player 1's  sword=101
+player 1's  pause=16
+player 2's HP = 72
+player 2's  bullet=0
+player 2's  sword=102
+player 2's  pause=5
+
+player 1's  order 1 move is 20 aims at 2
+player 2's  order 1 move is 9 aims at 1
+
+player 1's  order 1 stab is 5 aims at 2
+player 2's  order 1 stab is 1 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:5 damaging1
+player 2's  attack at 1 in order 1 leveling:2 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 31
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 82
+player 1's  bullet=60
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 69
+player 2's  bullet=0
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 15 aims at 2
+player 2's  order 1 move is 4 aims at 2
+
+player 1's  order 1 shoot is 6 aims at 2
+player 2 doblocks 1
+player 2's  order 1 block is 1
+
+player 1's  attack at 2 in order 1 leveling:6 damaging3
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 32
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 82
+player 1's  bullet=60
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 69
+player 2's  bullet=0
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 25 aims at 1
+player 2's  order 1 move is 25 aims at 2
+
+player 1's  comeon is1
+player 2's  comeon is1
+
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 33
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 82
+player 1's  bullet=60
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 69
+player 2's  bullet=0
+player 2's  sword=102
+player 2's  pause=1
+
+player 1's  order 1 move is 26 aims at 1
+player 2's  order 1 move is 9 aims at 1
+
+player 1's  order 1 provoke is 1 aims at 1
+player 2's  order 1 stab is 1 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:2 damaging1
+
+
+turn 34
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 81
+player 1's  bullet=60
+player 1's  sword=101
+player 1's  pause=5
+player 2's HP = 67
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 18 aims at 2
+player 2's  order 1 move is 1 aims at 2
+
+player 1's  order 1 stab is 4 aims at 2
+player 2's  order 1 add is 1 aims at 2 numbers are 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 35
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 81
+player 1's  bullet=59
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 66
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=2
+
+player 1's  order 1 move is 2 aims at 2
+player 2's  order 1 move is 10 aims at 1
+
+player 1's  order 1 shoot is 1 aims at 2
+player 2's  order 1 stab is 2 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:4 damaging1
+player 2's  attack at 1 in order 1 leveling:3 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 36
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 81
+player 1's  bullet=59
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 66
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 25 aims at 1
+player 2's  order 1 move is 25 aims at 2
+
+player 1's  comeon is1
+player 2's  comeon is1
+
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 37
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 81
+player 1's  bullet=59
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 66
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=1
+
+player 1's  order 1 move is 26 aims at 1
+player 2's  order 1 move is 8 aims at 2
+
+player 1's  order 1 provoke is 1 aims at 1
+player 2 docas 2
+player 2's  order 1 ca is 2
+
+
+
+turn 38
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 80
+player 1's  bullet=58
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 65
+player 2's  bullet=2
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 2 aims at 2
+player 2's  order 1 move is 1 aims at 2
+
+player 1's  order 1 shoot is 1 aims at 2
+player 2's  order 1 add is 1 aims at 2 numbers are 1
+
+player 1's  attack at 2 in order 1 leveling:4 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 39
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 79
+player 1's  bullet=58
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 65
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 5 aims at 1
+player 2's  order 1 move is 2 aims at 1
+
+player 1 doblocks 2
+player 1's  order 1 block is 2
+player 2's  order 1 shoot is 1 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:4 damaging1
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 40
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 77
+player 1's  bullet=58
+player 1's  sword=101
+player 1's  pause=2
+player 2's HP = 65
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=10
+
+player 1's  order 1 move is 10 aims at 2
+player 2's  order 1 move is 21 aims at 1
+
+player 1's  order 1 stab is 2 aims at 2
+player 2's  order 1 stab is 6 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging1
+player 2's  attack at 1 in order 1 leveling:5 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 41
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 75
+player 1's  bullet=58
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 65
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=20
+
+player 1's  order 1 move is 25 aims at 1
+player 2's  order 1 move is 21 aims at 1
+
+player 1's  comeon is1
+player 2's  order 1 stab is 6 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:5 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 42
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 73
+player 1's  bullet=58
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 65
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=23
+
+player 1's  order 1 move is 26 aims at 1
+player 2's  order 1 move is 17 aims at 1
+
+player 1's  order 1 provoke is 1 aims at 1
+player 2's  order 1 stab is 3 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:2 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 43
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 72
+player 1's  bullet=58
+player 1's  sword=101
+player 1's  pause=2
+player 2's HP = 65
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=25
+
+player 1's  order 1 move is 10 aims at 2
+player 2's  order 1 move is 10 aims at 1
+
+player 1's  order 1 stab is 2 aims at 2
+player 2's  order 1 stab is 2 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging1
+player 2's  attack at 1 in order 1 leveling:3 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 44
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 72
+player 1's  bullet=58
+player 1's  sword=101
+player 1's  pause=0
+player 2's HP = 65
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=26
+
+player 1's  order 1 move is 26 aims at 1
+player 2's  order 1 move is 9 aims at 1
+
+player 1's  order 1 provoke is 1 aims at 1
+player 2's  order 1 stab is 1 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:2 damaging1
+
+
+turn 45
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 69
+player 1's  bullet=58
+player 1's  sword=102
+player 1's  pause=0
+player 2's HP = 65
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=36
+
+player 1's  order 1 move is 7 aims at 1
+player 2's  order 1 move is 21 aims at 1
+
+player 1's  order 1 add is 2 aims at 1 numbers are 1
+player 2's  order 1 stab is 6 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:5 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 46
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 68
+player 1's  bullet=53
+player 1's  sword=102
+player 1's  pause=0
+player 2's HP = 62
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=41
+
+player 1's  order 1 move is 16 aims at 2
+player 2's  order 1 move is 18 aims at 1
+
+player 1's  order 1 shoot is 7 aims at 2
+player 2's  order 1 stab is 4 aims at 1
+
+player 1's  attack at 1 in order 1 leveling:7 damaging1
+player 1's  attack at 2 in order 1 leveling:7 damaging3
+player 2's  attack at 1 in order 1 leveling:3 damaging2
+
+
+turn 47
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 68
+player 1's  bullet=53
+player 1's  sword=102
+player 1's  pause=0
+player 2's HP = 62
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 25 aims at 1
+player 2's  order 1 move is 26 aims at 2
+
+player 1's  comeon is1
+player 2's  order 1 provoke is 1 aims at 2
+
+
+
+turn 48
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 68
+player 1's  bullet=53
+player 1's  sword=102
+player 1's  pause=6
+player 2's HP = 60
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=5
+
+player 1's  order 1 move is 20 aims at 2
+player 2's  order 1 move is 18 aims at 1
+
+player 1's  order 1 stab is 5 aims at 2
+player 2's  order 1 stab is 4 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:5 damaging1
+player 2's  attack at 1 in order 1 leveling:3 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 49
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 68
+player 1's  bullet=53
+player 1's  sword=102
+player 1's  pause=16
+player 2's HP = 58
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=6
+
+player 1's  order 1 move is 21 aims at 2
+player 2's  order 1 move is 9 aims at 1
+
+player 1's  order 1 stab is 6 aims at 2
+player 2's  order 1 stab is 1 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:5 damaging2
+player 2's  attack at 1 in order 1 leveling:2 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 50
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 68
+player 1's  bullet=52
+player 1's  sword=102
+player 1's  pause=0
+player 2's HP = 57
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=10
+
+player 1's  order 1 move is 2 aims at 2
+player 2's  order 1 move is 19 aims at 1
+
+player 1's  order 1 shoot is 1 aims at 2
+player 2's  order 1 stab is 7 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:4 damaging1
+player 2's  attack at 1 in order 1 leveling:3 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 51
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 67
+player 1's  bullet=47
+player 1's  sword=102
+player 1's  pause=0
+player 2's HP = 54
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=15
+
+player 1's  order 1 move is 16 aims at 2
+player 2's  order 1 move is 18 aims at 1
+
+player 1's  order 1 shoot is 7 aims at 2
+player 2's  order 1 stab is 4 aims at 1
+
+player 1's  attack at 1 in order 1 leveling:7 damaging1
+player 1's  attack at 2 in order 1 leveling:7 damaging3
+player 2's  attack at 1 in order 1 leveling:3 damaging2
+
+
+turn 52
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 67
+player 1's  bullet=47
+player 1's  sword=102
+player 1's  pause=4
+player 2's HP = 54
+player 2's  bullet=2
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 19 aims at 2
+player 2's  order 1 move is 1 aims at 2
+
+player 1's  order 1 stab is 7 aims at 2
+player 2's  order 1 add is 1 aims at 2 numbers are 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 53
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 67
+player 1's  bullet=47
+player 1's  sword=102
+player 1's  pause=14
+player 2's HP = 52
+player 2's  bullet=2
+player 2's  sword=102
+player 2's  pause=5
+
+player 1's  order 1 move is 21 aims at 2
+player 2's  order 1 move is 18 aims at 1
+
+player 1's  order 1 stab is 6 aims at 2
+player 2's  order 1 stab is 4 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:5 damaging2
+player 2's  attack at 1 in order 1 leveling:3 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 54
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 66
+player 1's  bullet=47
+player 1's  sword=102
+player 1's  pause=0
+player 2's HP = 52
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 26 aims at 1
+player 2's  order 1 move is 2 aims at 1
+
+player 1's  order 1 provoke is 1 aims at 1
+player 2's  order 1 shoot is 1 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:4 damaging1
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 55
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 63
+player 1's  bullet=47
+player 1's  sword=103
+player 1's  pause=0
+player 2's HP = 52
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=3
+
+player 1's  order 1 move is 7 aims at 1
+player 2's  order 1 move is 17 aims at 1
+
+player 1's  order 1 add is 2 aims at 1 numbers are 1
+player 2's  order 1 stab is 3 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:2 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 56
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 63
+player 1's  bullet=41
+player 1's  sword=103
+player 1's  pause=0
+player 2's HP = 49
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=0
+
+player 1's  order 1 move is 15 aims at 2
+player 2's  order 1 move is 25 aims at 2
+
+player 1's  order 1 shoot is 6 aims at 2
+player 2's  comeon is1
+
+player 1's  attack at 2 in order 1 leveling:6 damaging3
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 57
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 62
+player 1's  bullet=36
+player 1's  sword=103
+player 1's  pause=0
+player 2's HP = 46
+player 2's  bullet=1
+player 2's  sword=102
+player 2's  pause=1
+
+player 1's  order 1 move is 16 aims at 2
+player 2's  order 1 move is 8 aims at 2
+
+player 1's  order 1 shoot is 7 aims at 2
+player 2 docas 2
+player 2's  order 1 ca is 2
+
+player 1's  attack at 1 in order 1 leveling:7 damaging1
+player 1's  attack at 2 in order 1 leveling:7 damaging3
+
+
+turn 58
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 62
+player 1's  bullet=36
+player 1's  sword=103
+player 1's  pause=0
+player 2's HP = 46
+player 2's  bullet=1
+player 2's  sword=103
+player 2's  pause=0
+
+player 1's  order 1 move is 7 aims at 1
+player 2's  order 1 move is 25 aims at 2
+
+player 1's  order 1 add is 2 aims at 2 numbers are 1
+player 2's  comeon is1
+
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 59
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 62
+player 1's  bullet=33
+player 1's  sword=103
+player 1's  pause=0
+player 2's HP = 44
+player 2's  bullet=2
+player 2's  sword=103
+player 2's  pause=0
+
+player 1's  order 1 move is 14 aims at 2
+player 2's  order 1 move is 1 aims at 2
+
+player 1's  order 1 shoot is 5 aims at 2
+player 2's  order 1 add is 1 aims at 2 numbers are 1
+
+player 1's  attack at 2 in order 1 leveling:6 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 60
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 62
+player 1's  bullet=33
+player 1's  sword=103
+player 1's  pause=6
+player 2's HP = 43
+player 2's  bullet=2
+player 2's  sword=103
+player 2's  pause=0
+
+player 1's  order 1 move is 20 aims at 2
+player 2's  order 1 move is 26 aims at 2
+
+player 1's  order 1 stab is 5 aims at 2
+player 2's  order 1 provoke is 1 aims at 2
+
+player 1's  attack at 2 in order 1 leveling:5 damaging1
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 61
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 62
+player 1's  bullet=33
+player 1's  sword=103
+player 1's  pause=7
+player 2's HP = 42
+player 2's  bullet=2
+player 2's  sword=103
+player 2's  pause=0
+
+player 1's  order 1 move is 9 aims at 2
+player 2's  order 1 move is 26 aims at 2
+
+player 1's  order 1 stab is 1 aims at 2
+player 2's  order 1 provoke is 1 aims at 2
+
+player 1's  attack at 2 in order 1 leveling:2 damaging1
+
+
+turn 62
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 62
+player 1's  bullet=34
+player 1's  sword=103
+player 1's  pause=0
+player 2's HP = 41
+player 2's  bullet=2
+player 2's  sword=104
+player 2's  pause=0
+
+player 1's  order 1 move is 1 aims at 1
+player 2's  order 1 move is 7 aims at 2
+
+player 1's  order 1 add is 1 aims at 1 numbers are 1
+player 2's  order 1 add is 2 aims at 2 numbers are 1
+
+
+
+turn 63
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 62
+player 1's  bullet=32
+player 1's  sword=103
+player 1's  pause=0
+player 2's HP = 39
+player 2's  bullet=2
+player 2's  sword=104
+player 2's  pause=0
+
+player 1's  order 1 move is 12 aims at 2
+player 2's  order 1 move is 25 aims at 2
+
+player 1's  order 1 shoot is 3 aims at 2
+player 2's  comeon is1
+
+player 1's  attack at 2 in order 1 leveling:4 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 64
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 62
+player 1's  bullet=26
+player 1's  sword=103
+player 1's  pause=0
+player 2's HP = 36
+player 2's  bullet=2
+player 2's  sword=104
+player 2's  pause=4
+
+player 1's  order 1 move is 15 aims at 2
+player 2's  order 1 move is 19 aims at 1
+
+player 1's  order 1 shoot is 6 aims at 2
+player 2's  order 1 stab is 7 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:6 damaging3
+player 2's  attack at 1 in order 1 leveling:3 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 65
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 61
+player 1's  bullet=26
+player 1's  sword=103
+player 1's  pause=4
+player 2's HP = 36
+player 2's  bullet=2
+player 2's  sword=104
+player 2's  pause=10
+
+player 1's  order 1 move is 19 aims at 2
+player 2's  order 1 move is 20 aims at 1
+
+player 1's  order 1 stab is 7 aims at 2
+player 2's  order 1 stab is 5 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging1
+player 2's  attack at 1 in order 1 leveling:5 damaging1
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 66
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 61
+player 1's  bullet=24
+player 1's  sword=103
+player 1's  pause=0
+player 2's HP = 35
+player 2's  bullet=2
+player 2's  sword=104
+player 2's  pause=13
+
+player 1's  order 1 move is 3 aims at 2
+player 2's  order 1 move is 17 aims at 1
+
+player 1's  order 1 shoot is 2 aims at 2
+player 2's  order 1 stab is 3 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:4 damaging1
+player 2's  attack at 1 in order 1 leveling:2 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+
+turn 67
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 61
+player 1's  bullet=24
+player 1's  sword=103
+player 1's  pause=5
+player 2's HP = 33
+player 2's  bullet=2
+player 2's  sword=104
+player 2's  pause=0
+
+player 1's  order 1 move is 18 aims at 2
+player 2's  order 1 move is 4 aims at 2
+
+player 1's  order 1 stab is 4 aims at 2
+player 2 doblocks 1
+player 2's  order 1 block is 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 68
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 61
+player 1's  bullet=24
+player 1's  sword=103
+player 1's  pause=15
+player 2's HP = 31
+player 2's  bullet=2
+player 2's  sword=104
+player 2's  pause=1
+
+player 1's  order 1 move is 21 aims at 2
+player 2's  order 1 move is 9 aims at 1
+
+player 1's  order 1 stab is 6 aims at 2
+player 2's  order 1 stab is 1 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:5 damaging2
+player 2's  attack at 1 in order 1 leveling:2 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 69
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 61
+player 1's  bullet=24
+player 1's  sword=103
+player 1's  pause=20
+player 2's HP = 29
+player 2's  bullet=1
+player 2's  sword=104
+player 2's  pause=0
+
+player 1's  order 1 move is 18 aims at 2
+player 2's  order 1 move is 6 aims at 2
+
+player 1's  order 1 stab is 4 aims at 2
+player 2 docas 1
+player 2's  order 1 ca is 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 70
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 59
+player 1's  bullet=24
+player 1's  sword=104
+player 1's  pause=0
+player 2's HP = 29
+player 2's  bullet=1
+player 2's  sword=104
+player 2's  pause=10
+
+player 1's  order 1 move is 7 aims at 1
+player 2's  order 1 move is 21 aims at 1
+
+player 1's  order 1 add is 2 aims at 1 numbers are 1
+player 2's  order 1 stab is 6 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:5 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 71
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 59
+player 1's  bullet=25
+player 1's  sword=104
+player 1's  pause=0
+player 2's HP = 29
+player 2's  bullet=1
+player 2's  sword=104
+player 2's  pause=0
+
+player 1's  order 1 move is 1 aims at 1
+player 2's  order 1 move is 4 aims at 2
+
+player 1's  order 1 add is 1 aims at 1 numbers are 1
+player 2 doblocks 1
+player 2's  order 1 block is 1
+
+
+
+turn 72
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 57
+player 1's  bullet=25
+player 1's  sword=104
+player 1's  pause=3
+player 2's HP = 29
+player 2's  bullet=1
+player 2's  sword=104
+player 2's  pause=10
+
+player 1's  order 1 move is 17 aims at 2
+player 2's  order 1 move is 21 aims at 1
+
+player 1's  order 1 stab is 3 aims at 2
+player 2's  order 1 stab is 6 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:2 damaging2
+player 2's  attack at 1 in order 1 leveling:5 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 73
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 57
+player 1's  bullet=25
+player 1's  sword=104
+player 1's  pause=4
+player 2's HP = 29
+player 2's  bullet=1
+player 2's  sword=104
+player 2's  pause=0
+
+player 1's  order 1 move is 8 aims at 1
+player 2's  order 1 move is 26 aims at 2
+
+player 1 docas 2
+player 1's  order 1 ca is 2
+player 2's  order 1 provoke is 1 aims at 2
+
+
+
+turn 74
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 57
+player 1's  bullet=22
+player 1's  sword=104
+player 1's  pause=0
+player 2's HP = 28
+player 2's  bullet=1
+player 2's  sword=104
+player 2's  pause=0
+
+player 1's  order 1 move is 14 aims at 2
+player 2's  order 1 move is 4 aims at 2
+
+player 1's  order 1 shoot is 5 aims at 2
+player 2 doblocks 1
+player 2's  order 1 block is 1
+
+player 1's  attack at 2 in order 1 leveling:6 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 75
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 57
+player 1's  bullet=16
+player 1's  sword=104
+player 1's  pause=0
+player 2's HP = 25
+player 2's  bullet=1
+player 2's  sword=104
+player 2's  pause=2
+
+player 1's  order 1 move is 15 aims at 2
+player 2's  order 1 move is 10 aims at 1
+
+player 1's  order 1 shoot is 6 aims at 2
+player 2's  order 1 stab is 2 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:6 damaging3
+player 2's  attack at 1 in order 1 leveling:3 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 76
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 57
+player 1's  bullet=16
+player 1's  sword=104
+player 1's  pause=0
+player 2's HP = 25
+player 2's  bullet=0
+player 2's  sword=104
+player 2's  pause=0
+
+player 1's  order 1 move is 5 aims at 1
+player 2's  order 1 move is 6 aims at 2
+
+player 1 doblocks 2
+player 1's  order 1 block is 2
+player 2 docas 1
+player 2's  order 1 ca is 1
+
+
+
+turn 77
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 57
+player 1's  bullet=16
+player 1's  sword=104
+player 1's  pause=5
+player 2's HP = 23
+player 2's  bullet=0
+player 2's  sword=104
+player 2's  pause=3
+
+player 1's  order 1 move is 18 aims at 2
+player 2's  order 1 move is 17 aims at 1
+
+player 1's  order 1 stab is 4 aims at 2
+player 2's  order 1 stab is 3 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging2
+player 2's  attack at 1 in order 1 leveling:2 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 78
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 57
+player 1's  bullet=13
+player 1's  sword=104
+player 1's  pause=0
+player 2's HP = 21
+player 2's  bullet=0
+player 2's  sword=104
+player 2's  pause=0
+
+player 1's  order 1 move is 14 aims at 2
+player 2's  order 1 move is 25 aims at 2
+
+player 1's  order 1 shoot is 5 aims at 2
+player 2's  comeon is1
+
+player 1's  attack at 2 in order 1 leveling:6 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 79
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 57
+player 1's  bullet=13
+player 1's  sword=104
+player 1's  pause=3
+player 2's HP = 21
+player 2's  bullet=0
+player 2's  sword=104
+player 2's  pause=1
+
+player 1's  order 1 move is 17 aims at 2
+player 2's  order 1 move is 9 aims at 1
+
+player 1's  order 1 stab is 3 aims at 2
+player 2's  order 1 stab is 1 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:2 damaging2
+player 2's  attack at 1 in order 1 leveling:2 damaging1
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 80
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 57
+player 1's  bullet=13
+player 1's  sword=104
+player 1's  pause=5
+player 2's HP = 20
+player 2's  bullet=0
+player 2's  sword=104
+player 2's  pause=0
+
+player 1's  order 1 move is 10 aims at 2
+player 2's  order 1 move is 26 aims at 2
+
+player 1's  order 1 stab is 2 aims at 2
+player 2's  order 1 provoke is 1 aims at 2
+
+player 1's  attack at 2 in order 1 leveling:3 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 81
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 57
+player 1's  bullet=13
+player 1's  sword=105
+player 1's  pause=0
+player 2's HP = 19
+player 2's  bullet=0
+player 2's  sword=105
+player 2's  pause=0
+
+player 1's  order 1 move is 7 aims at 1
+player 2's  order 1 move is 7 aims at 2
+
+player 1's  order 1 add is 2 aims at 1 numbers are 1
+player 2's  order 1 add is 2 aims at 2 numbers are 1
+
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+
+turn 82
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 57
+player 1's  bullet=13
+player 1's  sword=105
+player 1's  pause=2
+player 2's HP = 18
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=0
+
+player 1's  order 1 move is 10 aims at 2
+player 2's  order 1 move is 1 aims at 2
+
+player 1's  order 1 stab is 2 aims at 2
+player 2's  order 1 add is 1 aims at 2 numbers are 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 83
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 55
+player 1's  bullet=13
+player 1's  sword=105
+player 1's  pause=0
+player 2's HP = 18
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=3
+
+player 1's  order 1 move is 25 aims at 1
+player 2's  order 1 move is 17 aims at 1
+
+player 1's  comeon is1
+player 2's  order 1 stab is 3 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:2 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 84
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 55
+player 1's  bullet=13
+player 1's  sword=105
+player 1's  pause=10
+player 2's HP = 16
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=0
+
+player 1's  order 1 move is 21 aims at 2
+player 2's  order 1 move is 5 aims at 2
+
+player 1's  order 1 stab is 6 aims at 2
+player 2 doblocks 2
+player 2's  order 1 block is 2
+
+player 1's  attack at 2 in order 1 leveling:5 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 85
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 55
+player 1's  bullet=11
+player 1's  sword=105
+player 1's  pause=0
+player 2's HP = 15
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=1
+
+player 1's  order 1 move is 3 aims at 2
+player 2's  order 1 move is 9 aims at 1
+
+player 1's  order 1 shoot is 2 aims at 2
+player 2's  order 1 stab is 1 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:4 damaging1
+player 2's  attack at 1 in order 1 leveling:2 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+
+turn 86
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 55
+player 1's  bullet=11
+player 1's  sword=105
+player 1's  pause=5
+player 2's HP = 13
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=2
+
+player 1's  order 1 move is 18 aims at 2
+player 2's  order 1 move is 9 aims at 1
+
+player 1's  order 1 stab is 4 aims at 2
+player 2's  order 1 stab is 1 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging2
+player 2's  attack at 1 in order 1 leveling:2 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 87
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 54
+player 1's  bullet=11
+player 1's  sword=105
+player 1's  pause=0
+player 2's HP = 13
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=4
+
+player 1's  order 1 move is 5 aims at 1
+player 2's  order 1 move is 10 aims at 1
+
+player 1 doblocks 2
+player 1's  order 1 block is 2
+player 2's  order 1 stab is 2 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:3 damaging1
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 88
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 54
+player 1's  bullet=11
+player 1's  sword=105
+player 1's  pause=2
+player 2's HP = 13
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=9
+
+player 1's  order 1 move is 10 aims at 2
+player 2's  order 1 move is 18 aims at 1
+
+player 1's  order 1 stab is 2 aims at 2
+player 2's  order 1 stab is 4 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging1
+player 2's  attack at 1 in order 1 leveling:3 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 89
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 54
+player 1's  bullet=9
+player 1's  sword=105
+player 1's  pause=0
+player 2's HP = 11
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=11
+
+player 1's  order 1 move is 12 aims at 2
+player 2's  order 1 move is 10 aims at 1
+
+player 1's  order 1 shoot is 3 aims at 2
+player 2's  order 1 stab is 2 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:4 damaging2
+player 2's  attack at 1 in order 1 leveling:3 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 90
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 54
+player 1's  bullet=9
+player 1's  sword=105
+player 1's  pause=0
+player 2's HP = 11
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=0
+
+player 1's  order 1 move is 26 aims at 1
+player 2's  order 1 move is 26 aims at 2
+
+player 1's  order 1 provoke is 1 aims at 1
+player 2's  order 1 provoke is 1 aims at 2
+
+
+
+turn 91
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 53
+player 1's  bullet=7
+player 1's  sword=105
+player 1's  pause=0
+player 2's HP = 10
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=0
+
+player 1's  order 1 move is 3 aims at 2
+player 2's  order 1 move is 5 aims at 2
+
+player 1's  order 1 shoot is 2 aims at 2
+player 2 doblocks 2
+player 2's  order 1 block is 2
+
+player 1's  attack at 2 in order 1 leveling:4 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+
+turn 92
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 53
+player 1's  bullet=7
+player 1's  sword=105
+player 1's  pause=0
+player 2's HP = 10
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=0
+
+player 1's  order 1 move is 4 aims at 1
+player 2's  order 1 move is 4 aims at 2
+
+player 1 doblocks 1
+player 1's  order 1 block is 1
+player 2 doblocks 1
+player 2's  order 1 block is 1
+
+
+
+turn 93
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 53
+player 1's  bullet=7
+player 1's  sword=105
+player 1's  pause=1
+player 2's HP = 10
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=1
+
+player 1's  order 1 move is 9 aims at 2
+player 2's  order 1 move is 9 aims at 1
+
+player 1's  order 1 stab is 1 aims at 2
+player 2's  order 1 stab is 1 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:2 damaging1
+player 2's  attack at 1 in order 1 leveling:2 damaging1
+
+
+turn 94
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 53
+player 1's  bullet=7
+player 1's  sword=105
+player 1's  pause=5
+player 2's HP = 10
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=2
+
+player 1's  order 1 move is 19 aims at 2
+player 2's  order 1 move is 9 aims at 1
+
+player 1's  order 1 stab is 7 aims at 2
+player 2's  order 1 stab is 1 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging1
+player 2's  attack at 1 in order 1 leveling:2 damaging1
+
+
+turn 95
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 53
+player 1's  bullet=7
+player 1's  sword=105
+player 1's  pause=10
+player 2's HP = 10
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=7
+
+player 1's  order 1 move is 18 aims at 2
+player 2's  order 1 move is 18 aims at 1
+
+player 1's  order 1 stab is 4 aims at 2
+player 2's  order 1 stab is 4 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging2
+player 2's  attack at 1 in order 1 leveling:3 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 96
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 51
+player 1's  bullet=7
+player 1's  sword=105
+player 1's  pause=11
+player 2's HP = 8
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=10
+
+player 1's  order 1 move is 8 aims at 1
+player 2's  order 1 move is 17 aims at 1
+
+player 1 docas 2
+player 1's  order 1 ca is 2
+player 2's  order 1 stab is 3 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:2 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+
+turn 97
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 51
+player 1's  bullet=1
+player 1's  sword=105
+player 1's  pause=0
+player 2's HP = 5
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=13
+
+player 1's  order 1 move is 15 aims at 2
+player 2's  order 1 move is 17 aims at 1
+
+player 1's  order 1 shoot is 6 aims at 2
+player 2's  order 1 stab is 3 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:6 damaging3
+player 2's  attack at 1 in order 1 leveling:2 damaging2
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 98
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 51
+player 1's  bullet=1
+player 1's  sword=105
+player 1's  pause=6
+player 2's HP = 4
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=0
+
+player 1's  order 1 move is 20 aims at 2
+player 2's  order 1 move is 4 aims at 2
+
+player 1's  order 1 stab is 5 aims at 2
+player 2 doblocks 1
+player 2's  order 1 block is 1
+
+player 1's  attack at 2 in order 1 leveling:5 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 99
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 51
+player 1's  bullet=1
+player 1's  sword=105
+player 1's  pause=16
+player 2's HP = 2
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=3
+
+player 1's  order 1 move is 21 aims at 2
+player 2's  order 1 move is 17 aims at 1
+
+player 1's  order 1 stab is 6 aims at 2
+player 2's  order 1 stab is 3 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:5 damaging2
+player 2's  attack at 1 in order 1 leveling:2 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 100
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 49
+player 1's  bullet=1
+player 1's  sword=105
+player 1's  pause=0
+player 2's HP = 2
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=8
+
+player 1's  order 1 move is 4 aims at 1
+player 2's  order 1 move is 18 aims at 1
+
+player 1 doblocks 1
+player 1's  order 1 block is 1
+player 2's  order 1 stab is 4 aims at 1
+
+player 2's  attack at 1 in order 1 leveling:3 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1
+turn 101
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 47
+player 1's  bullet=1
+player 1's  sword=105
+player 1's  pause=5
+player 2's HP = 2
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=18
+
+player 1's  order 1 move is 18 aims at 2
+player 2's  order 1 move is 21 aims at 1
+
+player 1's  order 1 stab is 4 aims at 2
+player 2's  order 1 stab is 6 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:3 damaging2
+player 2's  attack at 1 in order 1 leveling:5 damaging2
+
+the wounded player 1's suspected killer source2is1with a head benefit of0
+the wounded player 1's suspected attacker source2is1the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
+turn 102
+people 2
+alivepeople1
+player 0's HP = 0
+player 0's  bullet=0
+player 0's  sword=0
+player 0's  pause=0
+player 1's HP = 47
+player 1's  bullet=1
+player 1's  sword=105
+player 1's  pause=15
+player 2's HP = 0
+player 2's  bullet=1
+player 2's  sword=105
+player 2's  pause=19
+
+player 1's  order 1 move is 21 aims at 2
+player 2's  order 1 move is 9 aims at 1
+
+player 1's  order 1 stab is 6 aims at 2
+player 2's  order 1 stab is 1 aims at 1
+
+player 1's  attack at 2 in order 1 leveling:5 damaging2
+player 2's  attack at 1 in order 1 leveling:2 damaging1
+
+the wounded player 2's suspected killer source1is1with a head benefit of0
+the wounded player 2's suspected attacker source1is1
