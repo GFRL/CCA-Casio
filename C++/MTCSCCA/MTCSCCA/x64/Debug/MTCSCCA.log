@@ -1,15 +1,17 @@
 ﻿  main.cpp
-E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(126,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(168,97): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(169,97): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(183,111): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(236,18): warning C4244: “初始化”: 从“_Ty2”转换到“int”，可能丢失数据
+E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(118,20): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(118,20): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(128,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(186,97): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(187,97): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(201,111): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(254,18): warning C4244: “初始化”: 从“_Ty2”转换到“int”，可能丢失数据
           with
           [
               _Ty2=double
           ]
-E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(239,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“__int64”
-E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(239,12): message : 请考虑在格式字符串中使用“%lld”
-E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(239,12): message : 请考虑在格式字符串中使用“%Id”
-E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(239,12): message : 请考虑在格式字符串中使用“%I64d”
+E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(257,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“__int64”
+E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(257,12): message : 请考虑在格式字符串中使用“%lld”
+E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(257,12): message : 请考虑在格式字符串中使用“%Id”
+E:\程序\CCA-Casio\C++\MTCSCCA\MTCSCCA\main.cpp(257,12): message : 请考虑在格式字符串中使用“%I64d”
   MTCSCCA.vcxproj -> E:\程序\CCA-Casio\C++\MTCSCCA\x64\Debug\MTCSCCA.exe

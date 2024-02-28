@@ -12,6 +12,7 @@
 #include <thread>
 #include <chrono>
 #include<vector>
+#include<random>
 #include<map>
 #define ll long long
 #define maxn 10000000
@@ -19,7 +20,7 @@
 #define type_num 20
 #define maxjs 2
 using namespace std;
-int shichang = 500;
+int shichang = 100;
 int COUNT;
 
 
@@ -31,6 +32,7 @@ map<int, int>Q{{1, 0}, { 2,0 }, { 3,3 }, { 4,3 }, { 5,1 }, { 6,2 }, { 7,0 }, { 8
 map<int, int>Qb{{1, 0}, { 2,0 }, { 3,1 }, { 4,2 }, { 5,0 }, { 6,0 }, { 7,0 }, { 8,0 }, { 9,0 }};
 map<int, int>Qs{{1, 0}, { 2,0 }, { 3,0 }, { 4,0 }, { 5,1 }, { 6,2 }, { 7,0 }, { 8,0 }, { 9,0 }};
 map<int, int>Qv{{1, 0}, { 2,0 }, { 3,1 }, { 4,1 }, { 5,1 }, { 6,1 }, { 7,0 }, { 8,0 }, { 9,0 }};
+map<int, string>Name{{1, "补"}, { 2,"拔" }, { 3,"枪" }, { 4,"双枪" }, { 5,"刺" }, { 6,"砍" }, { 7, "挡" } ,{8, "双档"}, { 9,"重挡" }};
 struct Game {
     int num=2;
     int bullet[2];
@@ -45,7 +47,7 @@ struct Game {
         if (bullet[u] > 0)A.push_back(3);
         if (bullet[u] > 1)A.push_back(4);
         if (next_sword[u] > 0)A.push_back(5);
-        if (next_sword[u] > 0)A.push_back(6);
+        if (next_sword[u] > 1)A.push_back(6);
         A.push_back(7);
         A.push_back(8);
         A.push_back(9);
@@ -113,7 +115,7 @@ struct Game {
             next_sword[1] = sword[1];
         }
         if (real) {
-            printf("A使用了%d,B使用了%d\n", Btype, Atype);
+            printf("A使用了%d(%s),B使用了%d(%s)\n", Btype,Name[Btype], Atype,Name[Atype] );
             printf("A:bullet:  %d  sword:%d/%d  ,HP:%d\n", bullet[0], next_sword[0], sword[0], HP[0]);
             printf("B:bullet:  %d  sword:%d/%d  ,HP:%d\n", bullet[1], next_sword[1], sword[1], HP[1]);
         }
@@ -134,11 +136,27 @@ struct Game {
     bool end() {
         return HP[0] <= 0 || HP[1] <= 0;
     }
-    double tmp_value(int js) {
-        return (bullet[js] * 5 + sword[js] * 2 + next_sword[js] + HP[js] * 8);
+    double tmp_value(int js,int type) {
+        
+        if (type == 1) {
+            if (end()) {
+                return HP[js] > 0 ? 1000 : -1000;
+            }
+            else  return (log(bullet[js]+1) * 3 + log(sword[js]+1) * 4 + log(next_sword[js]+1) + log(HP[js]+1) * 8);
+        }
+        else if (type == 2) {//阿绿
+            return (sqrt(bullet[js]) * 3 + sqrt(sword[js]) * 4 + sqrt(next_sword[js]) + sqrt(HP[js]) * 8);
+        }
+        else {
+            if (end()) {
+                return HP[js] > 0 ? 1000 : -1000;
+            }
+            else  return (bullet[js] * 5 + sword[js] * 2 + next_sword[js] + HP[js] * 8);
+
+        }
     }
-    double get_value(int js) {
-        return tmp_value(js) - tmp_value(1 - js);
+    double get_value(int js,int type) {
+        return tmp_value(js,type) - tmp_value(1 - js,type);
     }
 }Initial;
 
@@ -185,7 +203,7 @@ int renew(cjd* tmp) {
     }
     return 0;
 }
-pair<int,double> EXPAND(cjd& root,int lunshu,int js) {
+pair<int,double> EXPAND(cjd& root,int lunshu,int js,int type) {
     int bestson = 0;
     if (root.ALLOW_TYPE_NUM[js] == 0)return make_pair(- 1, 0);
     int now_type;
@@ -219,12 +237,12 @@ pair<int,double> EXPAND(cjd& root,int lunshu,int js) {
         }
     }
     root.ALLOW_TYPE_HISTORY[js][bestson].first++;
-    double ss= tmpp.now.get_value(js);
+    double ss= tmpp.now.get_value(js,type);
     root.ALLOW_TYPE_HISTORY[js][bestson].second += ss;
     //////!!!!!!
     return make_pair(now_type, ss);
 }
-int AI2(int bs,int js) {
+int AI2(int bs,int js,int type) {
     CJDCNT = 0;
     COUNT = 0;
     auto start = std::chrono::system_clock::now();
@@ -233,21 +251,22 @@ int AI2(int bs,int js) {
     while ((end - start) / 1ms < shichang) {
         COUNT++;
         int lunshu = 10 + rand() % 5;
-        int ttmm = EXPAND(Root,lunshu,js).second;
+        int ttmm = EXPAND(Root,lunshu,js,type).second;
         end = std::chrono::system_clock::now();
     }
     printf("第%d步共耗时%dms,拓展%d次,平均用时%lfms,用了%d个CJD\n", bs, (end - start) / 1ms, COUNT, ((end - start) / 1ms) * 1.0 / COUNT, CJDCNT);
-    int final_choice= EXPAND(Root, 0, js).first;
+    int final_choice= EXPAND(Root, 0, js,type).first;
     return final_choice;
 }
 int main() {
     printf("输入HP1,HP2\n");
+    srand((unsigned)time(NULL));
     cin >> Initial.HP[0] >> Initial.HP[1];
     int count=0;
     Initial.output(1);
     while (!Initial.end()) {
-        int s1 = AI2(++count, 0);
-        int s2 = AI2(count, 1);
+        int s1 = AI2(++count, 0,1);
+        int s2 = AI2(count, 1,2);
         /*while (1)
         {
             cin >> s2;
