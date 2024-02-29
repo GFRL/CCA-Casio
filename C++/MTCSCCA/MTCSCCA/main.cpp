@@ -162,13 +162,6 @@ struct Game {
 
 
 
-struct dian {//白棋1;黑棋-1;
-    int x, y; double value, gz1, gz2;
-    dian(int x, int y, double value, double gz1, double gz2) :x(x), y(y), value(value), gz1(gz1), gz2(gz2) {}
-};
-struct cmp {
-    bool operator()(dian u, dian v) { return u.value < v.value; }
-};
 struct cjd {
     Game now;
     int ALLOW_TYPE_NUM[2];//多少个可用行动
